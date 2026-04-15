@@ -2,7 +2,7 @@
 
 Este repositório contém o site desenvolvido para apresentar meus dashboards de análise de dados.
 
-🔗 Acesse o site:  https://leticia-rodrigues1.github.io/portfolio-dashboards/
+🔗 Acesse o site: https://leticia-rodrigues1.github.io/site-dashboards/
 
 📊 Sobre os dashboards
 
