@@ -1,10 +1,10 @@
-## Portfólio de Dashboards
+# Portfólio de Dashboards
 
 Este repositório contém o site desenvolvido para apresentar meus dashboards de análise de dados.
 
-## Acesse o site: https://leticia-rodrigues1.github.io/site-dashboards/
+# Acesse o site: https://leticia-rodrigues1.github.io/site-dashboards/
 
-## Sobre os dashboards
+# Sobre os dashboards
 
 Os painéis foram desenvolvidos com foco em:
 
@@ -14,12 +14,12 @@ Análise de informações
 
 Geração de insights
 
-## Ferramentas utilizadas
+# Ferramentas utilizadas
 
 Power BI
 
-## Objetivo
+# Objetivo
 
 Criar um espaço online para apresentar meus projetos e demonstrar minhas habilidades na área de dados.
 
-## Projeto desenvolvido como parte do meu portfólio profissional
+# Projeto desenvolvido como parte do meu portfólio profissional
